@@ -8,6 +8,7 @@ Here is a simple python script to run on MacOS to correctly convert your 'native
 
 
 [This is only for .sra files and .srm files]
+[and this is not a tool which converts between the different formats, it simple makes the file comptible, where otherwise it would not be compatible]
 
 
 **Tested and working on:**
