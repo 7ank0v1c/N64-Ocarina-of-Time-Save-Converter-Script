@@ -40,7 +40,9 @@ Steps are identical, but just ensure you use the correct script, depending on yo
 
 
 **SRA Save Files:**
+
 Step 1: Prepare your SRA
+
 1.	Put your SRA file somewhere easy to access, e.g., ~/Desktop/.
 	
 2.	Ensure the save file is named "save.sra"
@@ -50,7 +52,9 @@ Step 1: Prepare your SRA
 ⸻
 
 Step 2: Run the script
+
 1.	Open Terminal.
+
 2.	Navigate to your Desktop (or wherever your files are) using:
 
 		cd ~/Desktop
@@ -64,7 +68,9 @@ Step 2: Run the script
 ⸻
 
 ✅ Step 4: Test
+
 1. Rename your 'save_swapped.srm' file to the correct name for that save file
+
 2. Copy the save to your emulator folder and load in your emulator and see if it now reads correctly.
 
 
@@ -74,7 +80,9 @@ Step 2: Run the script
 
 
 SRM Save Files:
+
 Step 1: Prepare your SRM
+
 1.	Put your SRM file somewhere easy to access, e.g., ~/Desktop/.
 	
 2.	Ensure the save file is named "save.srm"
@@ -84,7 +92,9 @@ Step 1: Prepare your SRM
 ⸻
 
 Step 2: Run the script
+
 1.	Open Terminal.
+
 2.	Navigate to your Desktop (or wherever your files are) using:
 
 		cd ~/Desktop
@@ -98,5 +108,7 @@ Step 2: Run the script
 ⸻
 
 ✅ Step 4: Test
+
 1. Rename your 'save_swapped.srm' file to the correct name for that save file
+
 2. Copy the save to your emulator folder and load in your emulator and see if it now reads correctly.
