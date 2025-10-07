@@ -1,4 +1,6 @@
-Here is a simple python script to run on MacOS to correctly convert your 'native N64' '.sra' save file, to a workable save file with emulators
+What is this?
+
+Here is a simple python script to run on MacOS to correctly convert your 'native N64' '.sra' save file, one dumped from an actual genuine cart, to a workable save file with emulators
 (This does not currently work with all emulators)
 
 Currently this is only for .sra files and .srm files
