@@ -22,12 +22,14 @@ RetroArch (using Mupen64 Core) - '.srm' file type
 M64Plus FZ Pro (on android) - '.sra' file type
 
 
+⸻
 
 
 **PLEASE NOTE: 
 ALWAYS MAKE A BACKUP OF YOUR SAVE BEFORE CONVERTING OR MESSING WITH IT IN ANYWAY**
 
 
+⸻
 
 
 Steps are identical, but just ensure you use the correct script, depending on your current save file type
@@ -39,6 +41,8 @@ Steps are identical, but just ensure you use the correct script, depending on yo
 **PLEASE NOTE: 
 ALWAYS MAKE A BACKUP OF YOUR SAVE BEFORE CONVERTING OR MESSING WITH IT IN ANYWAY**
 
+
+⸻
 
 
 **SRA Save Files:**
@@ -81,6 +85,7 @@ Step 2: Run the script
 **PLEASE NOTE: 
 ALWAYS MAKE A BACKUP OF YOUR SAVE BEFORE CONVERTING OR MESSING WITH IT IN ANYWAY**
 
+⸻
 
 SRM Save Files:
 
