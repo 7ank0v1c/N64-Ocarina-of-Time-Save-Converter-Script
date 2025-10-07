@@ -1,16 +1,20 @@
-What is this?
+**What is this?**
 
 Here is a simple python script to run on MacOS to correctly convert your 'native N64' '.sra' save file, one dumped from an actual genuine cart, to a workable save file with emulators
 (This does not currently work with all emulators)
 
-Currently this is only for .sra files and .srm files
+[This is only for .sra files and .srm files]
 
-Tested and working on:
+**Tested and working on:**
 OpenEmu (using Mupen64 Core) - '.sra' file type
 RetroArch (using Mupen64 Core) - '.srm' file type
 
-Tested and not currently working on:
+**Tested and not currently working on:**
 M64Plus FZ Pro (on android) - '.sra' file type
+
+Steps are identical, but just ensure you use the correct tool
+
+**PLEASE NOTE: ALWAYS MAKE A BACKUP OF YOUR SAVE BEFORE CONVERTING OR MESSING WITH IT IN ANYWAY**
 
 SRA Save Files:
 Step 1: Prepare your SRA
