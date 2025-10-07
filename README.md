@@ -33,15 +33,15 @@ Step 2: Create the Python script
 
 ⸻
 
-  Step 3: Run the script
-	1.	Open Terminal.
-	2.	Navigate to your Desktop (or wherever your files are) using:
+Step 3: Run the script
+1.	Open Terminal.
+2.	Navigate to your Desktop (or wherever your files are) using:
 
-  	cd ~/Desktop
+		cd ~/Desktop
 
-  3.	Run the script:
+3. Run the script:
 
-    python3 swap_srm.py
+		python3 swap_srm.py
 
 •	If your Mac has Python 3 installed, it will create a new file called save_swapped.srm in the same folder.
 
