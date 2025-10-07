@@ -9,7 +9,7 @@ Here is a simple python script to run on MacOS to correctly convert your 'native
 OpenEmu (using Mupen64 Core) - '.sra' file type
 RetroArch (using Mupen64 Core) - '.srm' file type
 
-**Tested and not currently working on:**
+**Tested and 'not' currently working on:**
 M64Plus FZ Pro (on android) - '.sra' file type
 
 
