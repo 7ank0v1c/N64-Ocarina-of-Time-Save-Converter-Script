@@ -67,7 +67,7 @@ Step 2: Run the script
 
 3. Run the script:
 
-		python3 swap_srm.py
+		python3 swap_sra.py
 
 •	If your Mac has Python 3 installed, it will create a new file called save_swapped.sra in the same folder.
 
