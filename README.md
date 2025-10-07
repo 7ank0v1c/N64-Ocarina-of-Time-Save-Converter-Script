@@ -12,11 +12,18 @@ RetroArch (using Mupen64 Core) - '.srm' file type
 **Tested and not currently working on:**
 M64Plus FZ Pro (on android) - '.sra' file type
 
-Steps are identical, but just ensure you use the correct tool
 
 **PLEASE NOTE: ALWAYS MAKE A BACKUP OF YOUR SAVE BEFORE CONVERTING OR MESSING WITH IT IN ANYWAY**
 
-SRA Save Files:
+
+Steps are identical, but just ensure you use the correct tool
+
+⸻
+
+**PLEASE NOTE: ALWAYS MAKE A BACKUP OF YOUR SAVE BEFORE CONVERTING OR MESSING WITH IT IN ANYWAY**
+
+
+**SRA Save Files:**
 Step 1: Prepare your SRA
 1.	Put your SRA file somewhere easy to access, e.g., ~/Desktop/.
 	
@@ -46,6 +53,8 @@ Step 2: Run the script
 
 
 ⸻
+
+**PLEASE NOTE: ALWAYS MAKE A BACKUP OF YOUR SAVE BEFORE CONVERTING OR MESSING WITH IT IN ANYWAY**
 
 
 SRM Save Files:
