@@ -1,7 +1,7 @@
 Step 1: Prepare your SRM
-1.	Put your SRM file somewhere easy to access, e.g., ~/Desktop/. and ensure the save file is named "save.srm"
+1.	Put your SRM file somewhere easy to access, e.g., ~/Desktop/.
 	
-2.	Let’s say your file is called save.srm.
+2.	Ensure the save file is named "save.srm"
 
 ⸻
 
