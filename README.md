@@ -29,7 +29,7 @@ M64Plus FZ Pro (on android) - '.sra' file type
 
 
 
-Steps are identical, but just ensure you use the correct tool
+Steps are identical, but just ensure you use the correct script, depending on your current save file type
 
 
 ⸻
