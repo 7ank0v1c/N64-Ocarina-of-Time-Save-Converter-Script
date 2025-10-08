@@ -99,7 +99,7 @@ Step 1: Prepare your SRM
 	
 3.	Ensure the save file is named "save.srm"
 
-4.	Download and move the 'swap_srm.py' file to your Desktop (or wherever your SRM is).
+4.	Download and move the 'swap_srm.py' file to your Desktop (or wherever your SRM is) <a href="https://github.com/7ank0v1c/N64-Ocarina-of-Time-Save-Converter-Script/raw/main/Python%20Script/swap_srm.py" download>📥 Download swap_srm.py</a>
 
 ⸻
 
