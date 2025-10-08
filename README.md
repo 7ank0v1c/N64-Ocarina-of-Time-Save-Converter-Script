@@ -9,12 +9,12 @@ Furthermore I imagine this will also work with some other N64 cart saves, ones t
 If you do test it, let me know =D
 
 
-(This does not currently work with all emulators)
+**(This does not currently work with all emulators)**
 
 
-[This is only for .sra files and .srm files]
+**[This is only for .sra files and .srm files]**
 
-[This is not a tool which converts between the different formats, it simple makes the file of current save type, comptible, where otherwise it would not be]
+**[This is not a tool which converts between the different formats, it simple makes the file of current save type, comptible, where otherwise it would not be, however a link to the recomended MacOS save converter is below in the SRM section]**
 
 
 **Tested and working on:**
