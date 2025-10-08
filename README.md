@@ -3,6 +3,8 @@
 
 Here is a simple python script to run on MacOS to correctly convert your 'native N64' '.sra' save file, one dumped from an actual genuine cart, to a workable save file with emulators such as OpenEmu and RetroArch.
 
+I imagine this should also work on windows, but it is untested, let me know if it doesnt
+
 
 (This does not currently work with all emulators)
 
