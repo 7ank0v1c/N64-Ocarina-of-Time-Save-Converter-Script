@@ -5,6 +5,9 @@ Here is a simple python script to run on MacOS to correctly convert your 'native
 
 I imagine this should also work on windows, but it is untested, let me know if it doesnt
 
+Furthermore I imagine this will also work with some other N64 cart saves, ones that need byte swapping every 4 bytes, but I havents gotten around to testing this yet.
+If you do test it, let me know =D
+
 
 (This does not currently work with all emulators)
 
