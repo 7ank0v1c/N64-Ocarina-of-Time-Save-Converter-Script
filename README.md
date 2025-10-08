@@ -1,7 +1,7 @@
 **What is this?**
 
 
-Here is a simple python script to run on MacOS to correctly convert your 'native N64' '.sra' save file, one dumped from an actual genuine cart, to a workable save file with emulators
+Here is a simple python script to run on MacOS to correctly convert your 'native N64' '.sra' save file, one dumped from an actual genuine cart, to a workable save file with emulators such as OpenEmu and RetroArch.
 
 
 (This does not currently work with all emulators)
@@ -34,7 +34,7 @@ ALWAYS MAKE A BACKUP OF YOUR SAVE BEFORE CONVERTING OR MESSING WITH IT IN ANYWAY
 ⸻
 
 
-Steps are identical, but just ensure you use the correct script, depending on your current save file type
+Steps are almost identical, just ensure you use the correct script, depending on your current save file type
 
 
 ⸻
@@ -93,11 +93,13 @@ SRM Save Files:
 
 Step 1: Prepare your SRM
 
-1.	Put your SRM file somewhere easy to access, e.g., ~/Desktop/.
-	
-2.	Ensure the save file is named "save.srm"
+1.  If needed you can convert your save to SRM using this tool: https://github.com/drehren/ramp64-convert-gui
 
-3.	Download and move the 'swap_srm.py' file to your Desktop (or wherever your SRM is).
+2.	Put your SRM file somewhere easy to access, e.g., ~/Desktop/.
+	
+3.	Ensure the save file is named "save.srm"
+
+4.	Download and move the 'swap_srm.py' file to your Desktop (or wherever your SRM is).
 
 ⸻
 
