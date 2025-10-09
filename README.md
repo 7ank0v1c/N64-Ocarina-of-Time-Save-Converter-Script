@@ -21,9 +21,9 @@ You you will then need to come back here to do this
 
 **Tested and working on:**
 
-OpenEmu (using Mupen64 Core) - '.sra' file type
+OpenEmu, Delta iOS (using Mupen64 Core) - '.sra' file type
 
-RetroArch (using Mupen64 Core) - '.srm' file type
+RetroArch, ManicEmu iOS (using Mupen64 Core) - '.srm' file type
 
 
 **Tested and 'not' currently working on:**
