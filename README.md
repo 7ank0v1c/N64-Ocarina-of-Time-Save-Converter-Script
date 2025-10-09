@@ -8,15 +8,14 @@ I imagine this should also work on windows, but it is untested, so let me know i
 Furthermore I imagine this will also work with some other SRAM, '.sra', N64 cart saves, ones that need byte swapping every 4 bytes, but I havents gotten around to testing this yet.
 If you do test it, let me know =D
 
+**Please Note:**
 
-**(This does not currently work with all emulators)**
-
+**(This might not work with all emulators)**
 
 **[This is only for .sra files and .srm files]**
 
-**[This isn't a tool which converts from '.sra' to '.srm', it simple makes the file of the current save type, comptible, where otherwise it would not be]**
-**[Here is a link to the recomended MacOS save converter: https://github.com/drehren/ramp64-convert-gui]**
-You you will then need to come back here to do this
+**[This isn't a tool which converts from '.sra' to '.srm', it simple makes the file of the current save type, comptible, where otherwise it would not be. Here is a link to the recomended MacOS save converter: https://github.com/drehren/ramp64-convert-gui]**
+**You you will then need to come back here to do this for Ocarina of Time and possibly other saves**
 
 
 **Tested and working on:**
