@@ -5,7 +5,7 @@ Here is a simple python script to run on MacOS, to correctly convert your 'nativ
 
 I imagine this should also work on windows, but it is untested, so let me know if it does or not.
 
-Furthermore I imagine this will also work with some other N64 cart saves, ones that need byte swapping every 4 bytes, but I havents gotten around to testing this yet.
+Furthermore I imagine this will also work with some other '.sra' N64 cart saves, ones that need byte swapping every 4 bytes, but I havents gotten around to testing this yet.
 If you do test it, let me know =D
 
 
