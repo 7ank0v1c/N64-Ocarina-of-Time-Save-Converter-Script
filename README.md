@@ -1,7 +1,7 @@
 **What is this?**
 
 
-Here is a simple python script to run on MacOS, to correctly convert your 'native N64' '.sra' save file for Ocarina of Time (one dumped from an actual genuine cart) to a workable save file with emulators such as OpenEmu, Delta, M64Plus FZ Pro & RetroArch.
+Here is a simple python script to run on MacOS, to correctly convert your 'native N64' '.sra' save file for Ocarina of Time (one dumped from an actual genuine cart) to a workable save file with emulators such as OpenEmu, Delta, M64Plus FZ Pro & RetroArch (not limited to)
 
 I imagine this should also work on windows, but it is untested, so let me know if it does or not.
 
